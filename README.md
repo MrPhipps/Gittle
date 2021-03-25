@@ -1,3 +1,3 @@
 # Gittle
 
-A description of this package.
+A little command-line help with Git & GitHub written in Swift.
